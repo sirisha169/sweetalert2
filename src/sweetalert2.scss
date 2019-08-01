@@ -258,7 +258,7 @@ body {
 
 .swal2-popup {
   display: none;
-  position: relative;
+  position: fixed;
   box-sizing: border-box;
   flex-direction: column;
   justify-content: center;
